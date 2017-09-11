@@ -1,0 +1,2 @@
+set(sensor_stick_MESSAGE_FILES "/home/cedricxie/Documents/Udacity/RoboND-Perception-Exercises/catkin_ws/src/sensor_stick/msg/DetectedObject.msg;/home/cedricxie/Documents/Udacity/RoboND-Perception-Exercises/catkin_ws/src/sensor_stick/msg/DetectedObjectsArray.msg")
+set(sensor_stick_SERVICE_FILES "/home/cedricxie/Documents/Udacity/RoboND-Perception-Exercises/catkin_ws/src/sensor_stick/srv/GetNormals.srv;/home/cedricxie/Documents/Udacity/RoboND-Perception-Exercises/catkin_ws/src/sensor_stick/srv/GetFloatArrayFeature.srv")
